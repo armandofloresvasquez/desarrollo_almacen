@@ -1,1 +1,2 @@
 .htaccess permite realizar el desarrollo de paginas amigables
+buscar codigo mentor
